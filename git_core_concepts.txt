@@ -1,0 +1,1 @@
+Git is a type of version control system (VCS). 
